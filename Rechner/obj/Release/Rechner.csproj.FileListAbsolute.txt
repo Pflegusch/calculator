@@ -1,0 +1,9 @@
+C:\Users\Dennis\source\repos\Rechner\Rechner\bin\Release\Rechner.exe.config
+C:\Users\Dennis\source\repos\Rechner\Rechner\bin\Release\Rechner.exe
+C:\Users\Dennis\source\repos\Rechner\Rechner\bin\Release\Rechner.pdb
+C:\Users\Dennis\source\repos\Rechner\Rechner\obj\Release\Rechner.Form1.resources
+C:\Users\Dennis\source\repos\Rechner\Rechner\obj\Release\Rechner.Properties.Resources.resources
+C:\Users\Dennis\source\repos\Rechner\Rechner\obj\Release\Rechner.csproj.GenerateResource.cache
+C:\Users\Dennis\source\repos\Rechner\Rechner\obj\Release\Rechner.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\source\repos\Rechner\Rechner\obj\Release\Rechner.exe
+C:\Users\Dennis\source\repos\Rechner\Rechner\obj\Release\Rechner.pdb
